@@ -1,0 +1,27 @@
+  325  ls
+  326  ls-l
+  327  ls -l
+  328  grep -i users
+  329  mkdir linux-content
+  330  cd linux-content
+  331  git clone https://github.com/edurekavivekh/linux-content.git
+  332  ls
+  333  cd linux-content/
+  334  ls
+  335  cat data.csv
+  336  find .-name *.pdf
+  337  grep CAPTAIN data.csv
+  338  grep -i Gary data.csv
+  339  grep 0 data.csv
+  340  grep 82 data.csv
+  341  grep -r GARY data.csv
+  342  grep -v CAPTAIN data.csv
+  343  cd
+  344  ls pipeline grep -v /
+  345  find -name *.txt
+  346  find -name *.pdf
+  347  find -size +5M
+  348  history
+  349  history 27>linux_commands.txt
+  350  history 27>linux_commands.txt
+  351  history 27 >linux_commands.txt
